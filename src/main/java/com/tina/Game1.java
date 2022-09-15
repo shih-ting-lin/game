@@ -3,7 +3,7 @@ package com.tina;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Game {
+public class Game1 {
     public static void main(String[] args) {
         /*Random random = new Random();
         int secret = random.nextInt(10)+1;*/
